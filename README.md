@@ -45,14 +45,13 @@ After all dependencies are solved, you can configure the environment:
 Copy a `.env.example` to `.env` and add your node information. Here are also some recommended settings:
 
 ```
-PROTOCOL_IDENTIFIER=D
+PROTOCOL_IDENTIFIER=B
 NODE_RPC_URL=http://<ip>:<port>
-# This is optional if you have an RPC from getblock.io
 NODE_RPC_USER=<username>
 NODE_RPC_PASS=<password>
 TESTNET=false
 FEE_PER_KB=100000000
-ORD=https://ord.runesprotocol.com/
+ORD=https://bbqnals.bbqcoin.link/
 ```
 
 ## Funding
